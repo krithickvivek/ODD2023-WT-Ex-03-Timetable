@@ -1,16 +1,16 @@
 # Ex-04-Timetable
-## AIM
+# AIM
 To Write a html webpage page to display your timetable.
 
 # ALGORITHM
-### STEP 1
-Create a simple table using table tag
-### STEP 2
-Add header row using th tag
-### STEP 3
-Add your timetable
-### STEP 4
-Execute the program
+## STEP 1
+Create a simple table using table tag.
+## STEP 2
+Add header row using th tag.
+## STEP 3
+Add your timetable.
+## STEP 4
+Execute the program.
 
 # CODE
 ```html
@@ -116,9 +116,10 @@ Execute the program
     </table>
 </body>
 </html>
-
-
-
 ```
 
 # OUPUT
+![Output](TimeTable.png)
+
+# RESULT
+Thus the time table is been displayed using a HTML page successfully.
