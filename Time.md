@@ -119,7 +119,7 @@ Execute the program.
 ```
 
 # OUPUT
-![Output](TimeTable.png)
+ ![Output](/TimeTable.png)
 
 # RESULT
 Thus the time table is been displayed using a HTML page successfully.
